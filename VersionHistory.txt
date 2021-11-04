@@ -1,0 +1,3 @@
+1.2 | 2021/11/01 - [Bug Fix] Creating ChromeUserData Folder was raising an error in some cases; [New Feature] Version History added
+1.1 | 2021/10/25 - [New Feature] Avoid scanning the QR code, sending attachments (media and documents)
+1.0 | 2021/09/01 - Initial Version
