@@ -1,5 +1,5 @@
 1.2  | 2021/11/07:
-	- [Feature] 'Insert White Dividers' will apply a white border.
-	- [Enhanced] 'Border With Color' got replaced by a more flexible option to 'Change Border Color'.
-	- [Enhanced] 'Increase Tint/Shade' now works on Charts and Shapes.
-	- [Enhanced] Improved overall error handling and messages.
+    - [Feature] 'Insert White Dividers' will apply a white border.
+    - [Enhanced] 'Border With Color' got replaced by a more flexible option to 'Change Border Color'.
+    - [Enhanced] 'Increase Tint/Shade' now works on Charts and Shapes.
+    - [Enhanced] Improved overall error handling and messages.
